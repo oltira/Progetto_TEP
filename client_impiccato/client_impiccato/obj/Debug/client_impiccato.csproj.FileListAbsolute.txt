@@ -1,0 +1,42 @@
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.exe.config
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.exe
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.pdb
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.AssemblyReference.cache
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.Form1.resources
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.Properties.Resources.resources
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.GenerateResource.cache
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.CoreCompileInputs.cache
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.exe
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.pdb
+C:\Users\micar\OneDrive\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.exe.config
+C:\Users\micar\OneDrive\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.exe
+C:\Users\micar\OneDrive\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.pdb
+C:\Users\micar\OneDrive\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.AssemblyReference.cache
+C:\Users\micar\OneDrive\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.Form1.resources
+C:\Users\micar\OneDrive\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.Properties.Resources.resources
+C:\Users\micar\OneDrive\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.GenerateResource.cache
+C:\Users\micar\OneDrive\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.CoreCompileInputs.cache
+C:\Users\micar\OneDrive\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.exe
+C:\Users\micar\OneDrive\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.pdb
+C:\Users\demic\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.exe.config
+C:\Users\demic\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.exe
+C:\Users\demic\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.pdb
+C:\Users\demic\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.AssemblyReference.cache
+C:\Users\demic\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.Form1.resources
+C:\Users\demic\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.Properties.Resources.resources
+C:\Users\demic\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.GenerateResource.cache
+C:\Users\demic\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.CoreCompileInputs.cache
+C:\Users\demic\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.exe
+C:\Users\demic\Desktop\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.pdb
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.exe.config
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.exe
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\bin\Debug\client_impiccato.pdb
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.AssemblyReference.cache
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.Form1.resources
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.Properties.Resources.resources
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.GenerateResource.cache
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.csproj.CoreCompileInputs.cache
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.exe
+C:\Users\tiraboschi.18370\Desktop\Impiccato client server\Impiccato client server\Impiccato client server\client_impiccato\client_impiccato\obj\Debug\client_impiccato.pdb
